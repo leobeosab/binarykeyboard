@@ -1,6 +1,9 @@
 # binarykeyboard
 Files for a binary keyboard I made
 
+[Demo Video](https://github.com/leobeosab/binarykeyboard/assets/1686221/ae937d49-652a-471c-8981-78fca5fed1fa)
+
+
 Parts needed:
 * 1.09" OLED [affiliate link](https://amzn.to/3Rx17YR)  [link](https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V)
 * Arduino Micro (Not pro if you use my PCB design) [affiliate link](https://amzn.to/488rFFg) [link](https://a.co/d/dR1MI6Z)
@@ -14,7 +17,11 @@ Parts needed:
 * MICRO_4->ONE_SWITCH
 * MICRO_5->ZERO_SWITCH
 
-# binary keyboard automator
+# binary keyboard automaton
+
+[Demo video](https://github.com/leobeosab/binarykeyboard/assets/1686221/16bbe418-9476-402e-8135-d99ddb7bdfa7)
+
+
 Still need to add circuit diagram
 
 Parts needed:
