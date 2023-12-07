@@ -2,7 +2,7 @@
 Files for a binary keyboard I made
 
 Parts needed:
-* 1.09" OLED [affiliate link](https://amzn.to/3Rx17YR)  [link](https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V)
+* 0.91" OLED [affiliate link](https://amzn.to/3Rx17YR)  [link](https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V)
 * Arduino Micro (Not pro if you use my PCB design) [affiliate link](https://amzn.to/488rFFg) [link](https://a.co/d/dR1MI6Z)
     * You can use a pro micro if you are using a hand wired / pcbless design
 * 2 switches [affiliate link](https://amzn.to/3t6ESzQ) [link](https://a.co/d/cCmRpPG)
