@@ -9,10 +9,10 @@ Parts needed:
 * (optional) PCB
 
 ## Pin mapping 
-MICRO_2->LCD_SDA
-MICRO_3->LCD_SDC
-MICRO_4->ONE_SWITCH
-MICRO_5->ZERO_SWITCH
+* MICRO_2->LCD_SDA
+* MICRO_3->LCD_SDC
+* MICRO_4->ONE_SWITCH
+* MICRO_5->ZERO_SWITCH
 
 # binary keyboard automator
 Still need to add circuit diagram
